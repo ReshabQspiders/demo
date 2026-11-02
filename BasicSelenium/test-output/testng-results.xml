@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-06T12:32:22 IST" name="Suite" finished-at="2026-02-06T12:33:09 IST" duration-ms="47125">
+    <groups>
+    </groups>
+    <test started-at="2026-02-06T12:32:22 IST" name="Test" finished-at="2026-02-06T12:33:09 IST" duration-ms="47125">
+      <class name="HandlingDropdown.LearningRetrival">
+        <test-method signature="Retrival()[pri:0, instance:HandlingDropdown.LearningRetrival@67c27493]" started-at="2026-02-06T12:32:22 IST" name="Retrival" finished-at="2026-02-06T12:32:38 IST" duration-ms="15662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Retrival -->
+      </class> <!-- HandlingDropdown.LearningRetrival -->
+      <class name="HandlingDropdown.LearningSelectionMethods">
+        <test-method signature="Selection()[pri:0, instance:HandlingDropdown.LearningSelectionMethods@55183b20]" started-at="2026-02-06T12:32:38 IST" name="Selection" finished-at="2026-02-06T12:32:49 IST" duration-ms="11572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selection -->
+      </class> <!-- HandlingDropdown.LearningSelectionMethods -->
+      <class name="HandlingDropdown.LearningDeslection">
+        <test-method signature="Deselection()[pri:0, instance:HandlingDropdown.LearningDeslection@4f83df68]" started-at="2026-02-06T12:32:49 IST" name="Deselection" finished-at="2026-02-06T12:33:09 IST" duration-ms="19835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deselection -->
+      </class> <!-- HandlingDropdown.LearningDeslection -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
